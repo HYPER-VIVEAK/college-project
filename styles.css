@@ -1,4 +1,6 @@
-.header{
+.typesofgenerator{
+  background-color: beige;
+  margin-top: 10px;
   
 }
 .banner{
@@ -71,9 +73,7 @@ margin-top: 300px;
       }
      
       
-      .body {
-        
-      }
+     
       .footer{
         height: 400px;
         width: 100%;
