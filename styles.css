@@ -104,3 +104,29 @@ margin-top: 300px;
             padding: 5px;
             color: white;
       }
+.body0{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  border: black;
+  border-width: 10px;
+}
+.body1{
+  border: 5px solid red;
+  height: 700px;
+  width: 250px;;
+
+}
+.body2{
+  border-color:rebeccapurple;
+  border: 5px solid red;
+  height: 700px;
+  
+  
+}
+.body3{
+  border: 5px solid red;
+  height: 700px;
+  width: 250px;
+
+}
