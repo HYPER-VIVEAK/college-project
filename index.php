@@ -16,14 +16,14 @@
   <div class="banner">
           <img  src="images/final.png" class="logo" alt="">
     
-          <div class="nav">
+           <div class="nav">
        
-            <a href="/shop.html"><button style="margin-left: 30px;" class="bu" > Shop </button></a>
-           <a href="/buy.html"><button class="bu" > sell </button></a>
-           <a href="/contactus.html"><button class="bu" > Contact </button></a>
-           <a href="/index.html"><button class="bu" style="margin-right: 30px;"> Home </button></a>
+               <a href="shop.php"><button style="margin-left: 30px;" class="bu" > Shop </button></a>
+              <a href="buy.php"><button class="bu" > sell </button></a>
+              <a href="contactus.php"><button class="bu" > Contact </button></a>
+              <a href="index.php"><button class="bu" style="margin-right: 30px;"> Home </button></a>
 
-         </div>
+            </div>
 </div>
                    <div class="typesofgenerator">
                     <marquee behavior="alternate" scrollamount="1" direction="left">
@@ -50,8 +50,24 @@
                     </div>
 </div>      
 <!-- BODY -->
-<div class="body">
-    
+<div  style="padding: 20px; background-color: black;" class="body0">
+    i
+                      <div class="body1 " style="background-color: white;">
+                        <a href="shop.php"><button class="butth">shop</button></a>
+                        <a href="buy.php"><button class="butth">sell</button></a>
+                        <a href="service.php"><button class="butth">service</button></a>
+                      </div>
+                         
+   
+        <div class="body2">
+        <img  height="700px"  src="images/generator.jpg" alt="">
+        </div>
+                       <div class="body3" style="background-color: white;">
+                        <a href="login.php"><button class="butth">Login</button></a>
+                        <a href="contactus.php"><button class="butth">Contact US</button></a>
+                        <a href="aboutus.php"><button class="butth">About Us</button></a>
+
+                       </div> 
       
 
 </div>

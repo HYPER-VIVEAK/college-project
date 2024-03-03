@@ -150,3 +150,11 @@ margin-top: 300px;
   
   justify-content: space-evenly;
 }
+.buy_form{
+  height: 100px;
+  width: 100px;
+  background-color: antiquewhite;
+  align-items: center;
+ 
+
+}

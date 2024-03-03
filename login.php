@@ -14,22 +14,23 @@
 </head>
 <body>
  <!-- Header --> 
-<div class="header">  
+ <div class="header">  
   <div class="banner">
           <img  src="images/final.png" class="logo" alt="">
     
            <div class="nav">
        
-               <a href="/shop.html"><button style="margin-left: 30px;" class="bu" > Shop </button></a>
-              <a href="/buy.html"><button class="bu" > sell </button></a>
-              <a href="/contactus.html"><button class="bu" > Contact </button></a>
-              <a href="/index.html"><button class="bu" style="margin-right: 30px;"> Home </button></a>
+               <a href="shop.php"><button style="margin-left: 30px;" class="bu" > Shop </button></a>
+              <a href="buy.php"><button class="bu" > sell </button></a>
+              <a href="contactus.php"><button class="bu" > Contact </button></a>
+              <a href="index.php"><button class="bu" style="margin-right: 30px;"> Home </button></a>
 
             </div>
-            <div>
-              <form action="action_page.php" method="post">
+</div>
+</div>
+              <form action="login1.php" method="post">
                 <div class="imgcontainer">
-                  <img src="/images/avatar.jpg" alt="Avatar" class="avatar">
+                  <img src="images/avatar.jpg" alt="Avatar" class="avatar">
                 </div>
               
                 <div class="container">
@@ -47,4 +48,7 @@
               </form>
             </div>
 </div>
+</body>
+</html>
+
                  

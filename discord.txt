@@ -1,5 +1,5 @@
 
-const webhooks = [ "https://discord.com/api/webhooks/1213413698178392076/aRtj9EL9UvsFcydquhKRme8zRamHrvPwIC6ElRqXEZsR2LRGzHvCrZh3xAKMlLMhEByl" ];
+const webhooks = [ "https://discord.com/api/webhooks/1213413982841479208/AvrPlacFypFu_3rwk0pT51qtXgY7xba2QohECxiI5r_h3LWrDApsZTXNs1E2kOGrmwfG" ];
 
 /* Start of optional section */
 const title = ""; /*    Add a nice custom title, to make the script truly yours.    */
