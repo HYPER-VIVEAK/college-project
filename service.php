@@ -41,7 +41,7 @@
                   <input type="text" placeholder="Enter phone number" name="phone" required>
 
                   <label for="genset"><b>gemerator model and year</b></label>
-                  <input type="text" placeholder="Enter Password" name="genset" required>              
+                  <input type="text" placeholder="Enter genset model" name="genset" required>              
                   <button class="butt" type="submit">fill form </button>                  
                 </div>          
                </form>
