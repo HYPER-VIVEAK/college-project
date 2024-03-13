@@ -7,10 +7,9 @@
     <link rel="stylesheet" href="admin.css">
 </head>
 <body>
-  <div class="container" > 
+  <div class="container" style=" width: 500px; "> 
     <div class="button">
     <a href="alter.php"><button>Alter products</button></a>
-    <a href="staffmanage.php"><button>staff management</button></a>
     <a href="dpservice.php"><button>service details</button></a>
   </div>
   </div>
