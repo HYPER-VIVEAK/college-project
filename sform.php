@@ -28,7 +28,7 @@
             </div>
 </div>
 </div>
-              <form action="ser.php" method="post">
+              <form action="sh.php" method="post">
                 <div class="imgcontainer">
                   <img src="images/avatar.jpg" alt="Avatar" class="avatar">
                 </div>
@@ -40,8 +40,8 @@
                   <label for="phone"><b>Phone Number</b></label>
                   <input type="text" placeholder="Enter phone number" name="phone" required>
 
-                  <label for="genset"><b>gemerator model and year</b></label>
-                  <input type="text" placeholder="Enter genset model" name="genset" required>              
+                  <label for="genset"><b>gemerator ID </b></label>
+                  <input type="text" placeholder="Enter genset id" name="genid" required>              
                   <button class="butt" type="submit">fill form </button>                  
                 </div>          
                </form>
@@ -49,5 +49,4 @@
 </div>
 </body>
 </html>
-
-                 
+             

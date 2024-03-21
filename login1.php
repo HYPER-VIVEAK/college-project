@@ -19,7 +19,8 @@ if ($result->num_rows > 0) {
                     $row=mysqli_fetch_assoc($result);
                     $key= $row["pass"];
                     if ($key == "$u_password") {
-                        header("Location: admin.php");
+                        if($u_name == "admin"){
+                        header("Location: admin.php");}else{ header("Location:staff.php") ;  }
                     }
                     else
                     {
