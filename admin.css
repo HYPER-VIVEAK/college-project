@@ -1,0 +1,30 @@
+        .container{
+        height:300px;
+        width: 600px;
+        background-color: #e7acfc;
+        display: block;
+        margin-top: 300px;
+        margin-left: 35%;
+        border-radius: 30px;
+
+        
+        }
+        .button{
+            align-items: center;
+            position: relative;
+        top: 45%;
+        margin-left: 50px;
+        display: inline-;
+             }
+       button{
+        border-radius: 30px;
+        height: 60px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: bolder;
+        background-color: #98dbed;
+        margin-left: 50px;
+       }
+       button:hover{
+        background-color: #15bfed;
+
+       }
